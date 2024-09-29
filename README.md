@@ -10,9 +10,6 @@ I'm currently working on:
 
 - An application for emotional support of students @espol (.NET, Flutter, SvelteKit)
 - Various club projects @kokoaespol
-  
-Also, currently I work at a retail company in Ecuador where we maintain an ERP system, mobile apps
-and some microservices with Spring.
 
 I'm currently learning:
 
