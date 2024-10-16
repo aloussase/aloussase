@@ -1,1 +1,1 @@
-Hi, there! ✋
+Stay caffeinated 🫘☕!
