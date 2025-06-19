@@ -8,8 +8,10 @@ I have a distributed systems group at my job where we meet online to read papers
 We are currently: 
 
 - Reading "Database Design and Implementation"
-- Going through Fly.io's [gossip glomers](https://fly.io/dist-sys/) 
+- Going through Fly.io's [gossip glomers](https://fly.io/dist-sys/)
 
 Feel free to reach out if you want to join!
+
+💬 Discord https://discord.gg/QqMnGrFKxn
 
 How to reach me: goussasalexander@gmail.com
