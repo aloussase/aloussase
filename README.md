@@ -18,6 +18,7 @@ Feel free to reach out if you want to join!
 
 #### Outside of working hours, I like to:
 
+- 📖 Reading
 - 👨‍🍳 Cook
 - 🗣️ Learn (human) languages (currently French + Portuguese)
 - 🎸 Play bass
