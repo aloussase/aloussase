@@ -6,15 +6,7 @@ I'm currently working on my bachelor's thesis on distributed tracing.
 
 #### Distributed systems group
 
-I have a distributed systems group at my job where we meet online to read papers/books. 
-We are currently: 
-
-- Reading "Database Design and Implementation"
-- Going through Fly.io's [gossip glomers](https://fly.io/dist-sys/)
-
-Feel free to reach out if you want to join!
-
-💬 Discord https://discord.gg/QqMnGrFKxn
+I have a distributed systems group on Facebook: https://www.facebook.com/groups/distsys.
 
 #### Outside of working hours, I like to:
 
