@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a programmer from Ecuador 🇪🇨 in love with functional programming and distributed systems.
+I'm a programmer from Ecuador 🇪🇨 in love with distributed systems.
 
 I'm currently working on my bachelor's thesis on distributed tracing.
+
+I use Java ☕ as my main language, but consider myself a polyglot 😜.
 
 #### Distributed systems group
 
