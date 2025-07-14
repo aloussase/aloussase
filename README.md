@@ -8,10 +8,16 @@ I use Java ☕ as my main language, but consider myself a polyglot 😜.
 
 #### Outside of working hours, I like to:
 
-- 📖 Reading
+- 📖 Read
 - 👨‍🍳 Cook
 - 🗣️ Learn (human) languages (currently French + Portuguese)
 - 🎸 Play bass
+
+#### Connect with me on
+
+- 🍿 [letterboxd @aloussase](https://letterboxd.com/aloussase/)
+- 📚 [goodreads @aloussase](https://goodreads.com/aloussase/)
+- 🐦 [twitter @aloussase](https://x.com/aloussase)
 
 #### Contact
 
