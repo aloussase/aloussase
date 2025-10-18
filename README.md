@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a software engineer at Thoughtworks, based in Guayaquil, Ecuador.
+
+I crunch Jira tickets during the day.
+
+At night, I mostly work on Java services that I host on my Raspberry or developer tooling (IDE plugins, cli tools).
+
 <!--
 **aloussase/aloussase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
