@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer at Thoughtworks, based in Cuenca, Ecuador.
+I'm a software engineer at Thoughtworks, based in Ecuador.
 
 I crunch Jira tickets during the day.
 
