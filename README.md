@@ -1,10 +1,18 @@
 ## Hi there 👋
 
-I'm a software engineer at Thoughtworks, based in Ecuador.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⡲⠃⡰⣆⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⡔⢡⠮⡠⠊⣰⠂⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⠎⠠⡧⠊⠀⡠⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡘⠀⠀⠀⠀⡔⠃⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣯⣃⣾⡧⠊⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣿⣿⣥⠀⠀⠀⣀⣤⠾⠷
+⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣶⡿⠋⠉⠀⠀
+⠀⠀⠀⠀⠈⣻⠿⣿⣿⣿⡿⠛⠃⠀⠀⠀⠀
+⠀⠀⣤⣔⠎⠇⠙⠀⢧⢸⠀⠀⠀⠀⠀⠀⠀
+⠐⠊⠁⠁⠀⠀⠀⠀⠸⢸⠀⠀⠀⠀⠀⠀⠀
 
-I crunch Jira tickets during the day.
 
-At night, I mostly work on services that I host on my Raspberry or developer tooling (IDE plugins, cli tools).
+SHAW!
 
 <!--
 **aloussase/aloussase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
