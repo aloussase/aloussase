@@ -6,4 +6,6 @@ I am most experienced with Java, but I love playing with other technologies such
 
 Outside of programming, I love language learning and reading. I speak 4 languages fluently and I'm on the way to mastering a fifth one.
 
+Currently, I am working on AzuRoomie during my free time, a digital solution for affordable co-housing in the city of Cuenca.
+
 You can get in touch with me at my email address goussasalexander@gmail.com.
